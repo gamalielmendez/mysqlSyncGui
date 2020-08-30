@@ -1,0 +1,9 @@
+{
+  "name": "mysqlSyncGui",
+  "version": "1.0.0",
+  "description": "Interfaz grafica para herramienta de sincronizacion",
+  "main": "index.js",
+  "author": "Gamaliel mendez <diana22288@gmail.com>",
+  "license": "MIT",
+  "private": false
+}
