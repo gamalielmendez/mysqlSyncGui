@@ -1,7 +1,7 @@
 <script>
   
 	import Router from './config/Router.svelte'
-  
+
   </script>
   
   <style>

@@ -16,10 +16,14 @@
     "svelte": "^3.0.0"
   },
   "dependencies": {
+    "@gamalielmh921230/mysqlsync": "^1.0.5",
+    "bootstrap-treeview": "^1.2.0",
     "codemirror": "^5.57.0",
     "electron": "^10.1.0",
     "electron-is-dev": "^1.2.0",
     "electron-reload": "^1.5.0",
+    "jquery": "^3.5.1",
+    "node-ipc": "^9.1.1",
     "rollup-plugin-json": "^4.0.0",
     "rollup-plugin-scss": "^2.6.0",
     "sequelize": "^6.3.4",

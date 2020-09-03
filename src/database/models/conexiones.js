@@ -1,7 +1,8 @@
+
 const Sequelize = require('sequelize');
 const sequelize = require('../database');
 
-const Consultas= sequelize.define('tblconexiones',{
+const Conexiones= sequelize.define('tblconexiones',{
     CONEXION_ID:{
         type:Sequelize.INTEGER,
         primaryKey:true
@@ -29,4 +30,4 @@ const Consultas= sequelize.define('tblconexiones',{
 });
 
 
-module.exports = Consultas
+module.exports = Conexiones

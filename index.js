@@ -12,7 +12,8 @@ const createWindow = async () => {
         width: width / 1.25,
         height: height / 1.25,
         webPreferences: {
-            nodeIntegration: true
+            nodeIntegration: true,
+            preload: __dirname + '/preload.js'
         }
     });
 
